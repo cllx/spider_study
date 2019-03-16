@@ -1,6 +1,5 @@
 ﻿# Watching Yin Cheng's video learning spider
-
-标签（空格分隔）： python3 spider code
+python3 spider code
 
 ---
 
